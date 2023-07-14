@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Md-Abdur-Razzak/my-portfolio/static/css/main.5bf16fe7.css",
+    "main.js": "/Md-Abdur-Razzak/my-portfolio/static/js/main.6ca2d0e3.js",
+    "static/media/raju.png": "/Md-Abdur-Razzak/my-portfolio/static/media/raju.070e8fd04d3a6e985a3d.png",
+    "static/media/raju.pdf": "/Md-Abdur-Razzak/my-portfolio/static/media/raju.e3587386b1689be5ea13.pdf",
+    "static/media/portfolio1.jpg": "/Md-Abdur-Razzak/my-portfolio/static/media/portfolio1.7da42f3390f27fb91391.jpg",
+    "static/media/portfolio2.jpg": "/Md-Abdur-Razzak/my-portfolio/static/media/portfolio2.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio3.jpg": "/Md-Abdur-Razzak/my-portfolio/static/media/portfolio3.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/Md-Abdur-Razzak/my-portfolio/index.html",
+    "main.5bf16fe7.css.map": "/Md-Abdur-Razzak/my-portfolio/static/css/main.5bf16fe7.css.map",
+    "main.6ca2d0e3.js.map": "/Md-Abdur-Razzak/my-portfolio/static/js/main.6ca2d0e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bf16fe7.css",
+    "static/js/main.6ca2d0e3.js"
+  ]
+}
